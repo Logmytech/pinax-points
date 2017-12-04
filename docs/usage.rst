@@ -4,10 +4,9 @@ Usage
 =====
 
 Integrating `pinax-points` into your project is just a matter of using a couple of
-template tags and wiring up a bit of javascript. The rating form is intended
-to function via AJAX and as such returns JSON.
+template tags and wiring up a bit of javascript. 
 
-Firstly, add load the template tags for `pinax-ratings`::
+Firstly, add load the template tags for `pinax-points`::
 
     {% load pinax_points_tags %}
 
