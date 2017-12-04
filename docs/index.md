@@ -1,23 +1,22 @@
-# pinax-testimonials
+=============
+pinax-points
+=============
+
+Provides a site with points or karma of objects.
 
 
-!!! note "Pinax Ecosystem"
-    This app was developed as part of the Pinax ecosystem but is just a Django app
-    and can be used independently of other Pinax apps.
-    
-    To learn more about Pinax, see <http://pinaxproject.com/>
+Development
+-----------
+
+The source repository can be found at https://github.com/pinax/pinax-points
 
 
-## Quickstart
+Contents
+========
 
-Install the development version:
+.. toctree::
+ :maxdepth: 1
 
-    pip install pinax-points
-
-Add `pinax-points` to your `INSTALLED_APPS` setting:
-
-    INSTALLED_APPS = (
-        # ...
-        "pinax.points",
-        # ...
-    )
+ installation
+ usage
+ changelog
