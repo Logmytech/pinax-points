@@ -21,7 +21,7 @@ a context variable and display it::
 This displays overall points for the user.
 
 You can specify any object here instead of user that you want to display points for.
-For example if you want to display points for a post object
+For example if you want to display points for a post object::
     
     {% points_for_object post as points %}
 
