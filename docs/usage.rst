@@ -16,7 +16,7 @@ a context variable and display it::
 
     {% points_for_object user as points %}
 
-    <div class="points">{{ points }}</div>
+    <div class="user-points">{{ points }}</div>
 
 This displays overall points for the user.
 
